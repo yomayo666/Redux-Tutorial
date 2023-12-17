@@ -1,0 +1,69 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Apple Frangipan Tart",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple Frangipan Tart",
+      "image": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple Frangipan Tart",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apple Frangipan Tart",
+      "image": "https://www.themealdb.com/images/media/meals/abxcbq1619787919.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apple Frangipan Tart",
+      "image": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg"
+    },
+    {
+      "name": "ыыы",
+      "image": "ыы",
+      "id": 6
+    },
+    {
+      "name": "",
+      "image": "",
+      "id": 7
+    },
+    {
+      "name": "фывф",
+      "image": "фывф",
+      "id": 8
+    },
+    {
+      "name": "вфы",
+      "image": "фыв",
+      "id": 9
+    },
+    {
+      "name": "вфы",
+      "image": "фыв",
+      "id": 10
+    },
+    {
+      "name": "as",
+      "image": "ds",
+      "id": 11
+    },
+    {
+      "name": "s",
+      "image": "s",
+      "id": 12
+    },
+    {
+      "name": "good",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+      "id": 13
+    }
+  ]
+}
